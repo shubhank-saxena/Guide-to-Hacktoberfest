@@ -17,7 +17,8 @@ Register yourself for Hactoberfest.
 
 ## Step 3 
 This is the link of the repository that you guys will be contributing to.
-[https://github.com/creative-computing-society/creative-computing-society.github.io](https://github.com/creative-computing-society/creative-com puting-society.github.io)
+https://github.com/creative-computing-society/creative-computing-society.github.io
+
 
 ## Step 4 
 Star this repository
