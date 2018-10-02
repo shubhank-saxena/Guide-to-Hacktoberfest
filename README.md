@@ -1,11 +1,4 @@
-@page { margin: 2cm }
-		p { margin-bottom: 0.25cm; line-height: 120% }
-		a:link { so-language: zxx }
-	
-
-**Hello
-World**
-
+# Hello World!
 Follow these steps
 accordingly to contribute to Hacktoberfest to earn swags and learn
 something about the open source contribution.
