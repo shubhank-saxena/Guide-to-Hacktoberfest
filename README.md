@@ -12,6 +12,8 @@ https://github.com
 ## Step 2 
 Register yourself for Hactoberfest.
 [https://hacktoberfest.digitalocean.com/sign_up/register](https://hacktoberfest.digitalocean.com/sign_up/register)
+![screenshot from 2018-10-03 02-00-08](https://user-images.githubusercontent.com/29003047/46375349-d8e17c80-c6b0-11e8-9380-0805b67a532f.png)
+
 
 ## Step 3 
 This is the link of the repository that you guys will be contributing to.
