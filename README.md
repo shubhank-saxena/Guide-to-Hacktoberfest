@@ -1,49 +1,67 @@
-**Hello World**
+@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 120% }
+		a:link { so-language: zxx }
+	
 
-Follow these steps accordingly to contribute to Hacktoberfest to earn swags and learn something about the open source contribution.
+**Hello
+World**
 
-- Step 1
+Follow these steps
+accordingly to contribute to Hacktoberfest to earn swags and learn
+something about the open source contribution.
 
- Create a account on Github
+- Step 1 
+	 
 
-- Step 2
+	Create a account on
+Github
 
- Register yourself for Hactoberfest.
+- Step 2 
 
- [https://hacktoberfest.digitalocean.com/sign\_up/register](https://hacktoberfest.digitalocean.com/sign_up/register)
+	Register yourself
+for Hactoberfest.
 
-- Step 3
+[https://hacktoberfest.digitalocean.com/sign_up/register](https://hacktoberfest.digitalocean.com/sign_up/register)
 
- This is the link of the repository that you guys will be contributing to.
+- Step 3 
 
- [https://github.com/creative-computing-society/creative-computing-society.github.io](https://github.com/creative-computing-society/creative-computing-society.github.io)
+	This is the link of
+the repository that you guys will be contributing to.
 
-- Step 4
+[https://github.com/creative-computing-society/creative-computing-society.github.io](https://github.com/creative-computing-society/creative-computing-society.github.io)
 
- Star this repository
+- Step 4 
 
-- Step 5
+	Star this
+repository
 
- Fork this repository on your profile
+- Step 5 
 
-- Step 6
+	Fork this
+repository on your profile
 
- Open Terminal and type in these commands
+- Step 6 
 
+	Open Terminal and
+type in these commands
 
+- Step 7 
 
-- Step 7
+	Create a new branch
+in the cloned repository and name it on your name
 
- Create a new branch in the cloned repository and name it on your name
+- Step 8 
+	 
 
-- Step 8
+	Add the html tag on
+the table accordingly
 
- Add the html tag on the table accordingly
+- Step 9 
 
-- Step 9
+	Then git add. , git
+commit -m “”, git push
 
- Then git add. , git commit -m &quot;&quot;, git push
+- Step 10 
 
-- Step 10
-
- Post a new Pull Request
+	Post a new Pull
+Request
