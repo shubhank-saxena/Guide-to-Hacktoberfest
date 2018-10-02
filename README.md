@@ -7,51 +7,30 @@ something about the open source contribution.
 Create a account on Github
 
 ## Step 2 
-
-	Register yourself
-for Hactoberfest.
-
+Register yourself for Hactoberfest.
 [https://hacktoberfest.digitalocean.com/sign_up/register](https://hacktoberfest.digitalocean.com/sign_up/register)
 
-- Step 3 
+## Step 3 
+This is the link of the repository that you guys will be contributing to.
+[https://github.com/creative-computing-society/creative-computing-society.github.io](https://github.com/creative-computing-society/creative-com puting-society.github.io)
 
-	This is the link of
-the repository that you guys will be contributing to.
+## Step 4 
+Star this repository
 
-[https://github.com/creative-computing-society/creative-computing-society.github.io](https://github.com/creative-computing-society/creative-computing-society.github.io)
+## Step 5 
+Fork this repository on your profile
 
-- Step 4 
+## Step 6 
+Open Terminal and type in these commands
 
-	Star this
-repository
+## Step 7 
+Create a new branch in the cloned repository and name it on your name
 
-- Step 5 
+## Step 8 
+Add the html tag on the table accordingly
 
-	Fork this
-repository on your profile
+## Step 9
+Then git add. , git commit -m “”, git push
 
-- Step 6 
-
-	Open Terminal and
-type in these commands
-
-- Step 7 
-
-	Create a new branch
-in the cloned repository and name it on your name
-
-- Step 8 
-	 
-
-	Add the html tag on
-the table accordingly
-
-- Step 9 
-
-	Then git add. , git
-commit -m “”, git push
-
-- Step 10 
-
-	Post a new Pull
-Request
+## Step 10 
+Post a new Pull Request
