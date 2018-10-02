@@ -5,6 +5,9 @@ something about the open source contribution.
 
 ## Step 1 
 Create a account on Github
+https://github.com
+![screenshot from 2018-10-03 01-55-18](https://user-images.githubusercontent.com/29003047/46375174-58228080-c6b0-11e8-9735-82645c2801f4.png)
+
 
 ## Step 2 
 Register yourself for Hactoberfest.
