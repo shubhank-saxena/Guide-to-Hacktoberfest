@@ -3,13 +3,10 @@ Follow these steps
 accordingly to contribute to Hacktoberfest to earn swags and learn
 something about the open source contribution.
 
-- Step 1 
-	 
+## Step 1 
+Create a account on Github
 
-	Create a account on
-Github
-
-- Step 2 
+## Step 2 
 
 	Register yourself
 for Hactoberfest.
